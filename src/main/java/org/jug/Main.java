@@ -11,7 +11,6 @@ public class Main {
         Runnable beaver = () -> {return;};
         Runnable coyote = () -> {};
 
-
         //Runnable capybara = () -> "";                 // DOES NOT COMPILE
         //Runnable Hippopotamus = () -> 5;              // DOES NOT COMPILE
         //Runnable emu = () -> {return new Object();};  // DOES NOT COMPILE
